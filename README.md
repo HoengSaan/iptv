@@ -25,7 +25,9 @@ Almost 100% of them are usable and fast, and the Television Shopping Channels ar
 
 Last updated: 14/03/2024
 
-Normally I will clean the Television Shopping Channel but I just found out I forgot to clean some of them in this list.
+This list was not fully tested.
+
+Normally I will clean the Television Shopping Channel but I just found out I forgot to clean some of them in this list. 
 
 ### Categories
 
@@ -38,6 +40,8 @@ Some Hong Kong Channels are geo-blocked.
 ### Mainland China
 
 There are better lists if you live in Mainland China, just search it.
+
+![Mainland_China_Map](https://github.com/HoengSaan/iptv/assets/31458520/42be3a04-9497-4ef6-af4e-441661866073)
 
 - 中央 China Central Television & CGTN
 
